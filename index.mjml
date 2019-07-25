@@ -25,7 +25,13 @@
           At Uber, we’re dedicated to helping you feel confident while you’re on your way to where you need to go.
         </mj-text>
 
-        <mj-button background-color="#266EF1" align="left" font-size="14px" inner-padding="15px" border-radius="0" href="https://www.uber.com/us/en/u/moving-forward/safety/" target="_blank">
+        <mj-button background-color="#266EF1" 
+                   align="left" 
+                   font-size="14px" 
+                   inner-padding="15px 25px" 
+                   border-radius="0" 
+                   href="https://www.uber.com/us/en/u/moving-forward/safety/" 
+                   target="_blank">
           Learn more &rarr;
         </mj-button>
       </mj-column>
