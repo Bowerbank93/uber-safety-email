@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <!-- FontAwesome CDN -->
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css " />
+    </mj-raw>
+    <mj-title></mj-title>
+  </mj-head>
+  <mj-body background-color="#D6D6D5" width="700px">
+
+    <!-- Header -->
+    <mj-hero mode="fixed-height" height="330px" background-url="https://cdn01.vulcanpost.com/wp-uploads/2016/12/14047287_634278203401354_6201629954152048512_o.jpg" background-width="700px" background-height="330px" background-color="#2a3448">
+
+      <mj-text font-style="italic" font-size="40px" padding="20px 0 0 60px" color="#fff">
+        Uber
+      </mj-text>
+
+    </mj-hero>
+
+    <!-- Blurb -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="30px" font-weight="600" font-family="Helvetica Neue">
+
+          Our commitment to your safety
+        </mj-text>
+
+        <mj-text font-size="20px" line-height="30px">
+          At Uber, we’re dedicated to helping you feel confident while you’re on your way to where you need to go.
+        </mj-text>
+
+        <mj-button background-color="#266EF1" align="left" font-size="14px" inner-padding="15px" border-radius="0" href="https://www.uber.com/us/en/u/moving-forward/safety/" target="_blank">
+          Learn more <i style="padding-left: 10px;" class="fas fa-arrow-right"></i>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Section 1 -->
+    <mj-section background-color="#fff"
+                direction="rtl">
+
+      <!-- Right Image -->
+      <mj-column vertical-align="middle"
+                 width="50%">
+        <!-- Business vector created by djvstock - www.freepik.com -->
+        <mj-image align="center" src="https://image.freepik.com/free-vector/security-safety-icon_24911-44991.jpg" alt="Security" />
+      </mj-column>
+
+      <!-- Left Text -->
+      <mj-column width="50%">
+        <mj-text font-size="28px">
+          You're covered
+        </mj-text>
+
+        <mj-text font-size="15px" line-height="25px">
+          When you ride with Uber, your trips are insured in the event of a covered accident.
+        </mj-text>
+
+        <mj-text font-size="15px"
+                 color="#2F74F2">
+          <a style="text-decoration: none;"
+             href="https://www.uber.com/blog/updates-to-your-insurance-protection/"
+             target="_blank">
+             Learn more  <i style="padding-left: 10px"class="fas fa-chevron-right"></i></a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    
+     <!-- Section 2 -->
+    <mj-section background-color="#fff"
+                direction="rtl">
+
+      <!-- Left Image -->
+      <mj-column vertical-align="middle"
+                 width="50%">
+
+        <mj-image align="center" 
+                  src="https://d1a3f4spazzrp4.cloudfront.net/chameleon-assets/v1.0.0/3a43b581-44af-4bd8-af13-afb84461fe7b/desk2x.jpg" 
+                  alt="Driver" />
+      </mj-column>
+
+      <!-- Right Text -->
+      <mj-column width="50%">
+        <mj-text font-size="27px"
+                 align="left">
+          Drivers are screened beforehand
+        </mj-text>
+
+        <mj-text font-size="15px" line-height="25px">
+          All drivers must complete a criminal-background check and driving-history screening before they can start driving with Uber.
+        </mj-text>
+
+        <mj-text font-size="15px"
+                 color="#2F74F2">
+          <a style="text-decoration: none;"
+             href="https://www.uber.com/blog/updates-to-your-insurance-protection/"
+             target="_blank"
+             >Learn more  <i style="padding-left: 10px"class="fas fa-chevron-right"></i></a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Section 3 -->
+    <mj-section background-color="#fff"
+                direction="rtl">
+
+      <!-- Left Image -->
+      <mj-column vertical-align="middle"
+                 width="50%">
+
+        <mj-image align="center" 
+                  src="https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_744,h_496/v1556645917/assets/9c/6c09c2-b281-4430-9596-76cef8a691b3/original/peaceofmind.png" 
+                  alt="In-App Map" />
+      </mj-column>
+
+      <!-- Right Text -->
+      <mj-column width="50%">
+        <mj-text font-size="27px"
+                 align="left">
+          For peace of mind while your ride
+        </mj-text>
+
+        <mj-text font-size="15px" line-height="25px">
+          Access safety tools -- including 911 Assistance, Safety Center, and Share My Trip -- right from the map when you are on a trip.
+        </mj-text>
+
+        <mj-text font-size="15px"
+                 color="#2F74F2">
+          <a style="text-decoration: none;"
+             href="https://www.uber.com/us/en/ride/safety/"
+             target="_blank"
+             >Learn more  <i style="padding-left: 10px"class="fas fa-chevron-right"></i></a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#000">
+        <!-- Nav -->
+        <mj-section>
+        <mj-column>
+            <mj-navbar base-url="https://www.uber.com/">
+                <mj-navbar-link href="https://help.uber.com/" color="#ffffff" text-transform="none">Help center</mj-navbar-link>
+                <mj-navbar-link href="https://www.uber.com/legal/terms/us/" color="#ffffff" text-transform="none">Terms</mj-navbar-link>
+                <mj-navbar-link href="https://www.uber.com/legal/community-guidelines/us-can-en/" color="#ffffff" text-transform="none">Community</mj-navbar-link>
+                <mj-navbar-link href="https://privacy.uber.com/" color="#ffffff" text-transform="none">Privacy</mj-navbar-link>
+                <mj-navbar-link href="http://email.uber.com/wf/click?upn=u0Vt-2FupzkGFX9ZvjAvAP-2B7o4Gcgmm4oanHDsZj6MjamsWMcJnYjyie5lQdqwT2mBp7eeTySjl7iVG8fztW5aBsF1y-2FpWhYII-2F05SfnZ7LUf2Bq8EVtKNTuCz3lnolkT3wwe03SZDgZxFtZpnlm5GWFwuMx18AnRZFa8vWEgHEgaPKi0dYzwk2Ic2-2BjXwAxhUTCw2QzHFBqLI3xlh2InbLQ-3D-3D_BgtGEJSlFCpQ3PxOCfmzYieiBrkGCbVDirm0zOGCwSSKLW4LfbfLLJFq4QIDPUV6UmJT-2FqnpPD9QyWH-2F7ehTWLI6wPPLul6hqPetRee8qmrL71Rz4YtExUFJYc6XFk4QXji2EhJnkUs1Wg9Ss8oshIUz3uaIZQ8eUcuguGOKT-2FWOXD4xDqa4h6yM2b6GmyrWoVbf8RWyz52v7RDVeuMZETNUtu7ZlG-2Ba4rQe2wAx94FMslE4dik5OVpCZcdZfmFNyRaDvTut-2BUfJ-2F0ZG2zPuEf7mjKhEcDtqqbjx81ii6G69F4lxzXX-2B-2BE-2FTDN7RqMn49svm6712jXqP6ZdIXFGSMlKH5pPtfy-2FhGVfrr-2FlNyYkgZZo-2B0-2Fxz3rsCzzeR5jifThYuAjyGj1mvgXCEeOURm9PN41O7eKKeESInoMGVvYyDpqQ445ALZyfLt0Y6PzD2-2BIg5OAIYR5AgOGkGSGwm3AK256v4Ed2vCRc5Hv2a0fWg3VuWW5rGeS1gc3No-2BiNAA60eUtWfyer2IXUuWcy-2FRY38AooeT0oyMt1B2Khs5U4-3D" color="#ffffff" text-transform="none">Unsubscribe</mj-navbar-link>
+        </mj-navbar>
+        </mj-column>
+        </mj-section>
+
+        <!-- Social Media -->
+        <mj-section direction="rtl">
+             <mj-column width="50%">
+             <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+                <mj-social-element name="facebook" background-color="#000" href="https://www.facebook.com/uber">
+          </mj-social-element>
+                <mj-social-element name="twitter" background-color="#000" href="https://twitter.com/uber">
+          </mj-social-element>
+               <mj-social-element name="instagram" background-color="#000" href="https://www.instagram.com/uber/">
+          </mj-social-element>
+        </mj-social>
+        </mj-column>
+  
+            <!-- Address -->
+            <mj-column width="50%">
+                <mj-text color="#fff"
+                         font-size="11px"
+                         line-height="20px">
+                    This is a promotional email from Uber Technologies 
+                    1455 Market St., San Francisco, CA 94103 <br>
+                    <a style="text-decoration: none; color: #fff" href="https://www.uber.com/">Uber.com</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-wrapper>
+    
+  </mj-body>
+</mjml>
