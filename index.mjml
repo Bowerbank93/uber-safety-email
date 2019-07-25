@@ -1,10 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-raw>
-      <!-- FontAwesome CDN -->
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css " />
-    </mj-raw>
-    <mj-title></mj-title>
+    <mj-title>Your safety is always a top priority</mj-title>
   </mj-head>
   <mj-body background-color="#D6D6D5" width="700px">
 
@@ -30,7 +26,7 @@
         </mj-text>
 
         <mj-button background-color="#266EF1" align="left" font-size="14px" inner-padding="15px" border-radius="0" href="https://www.uber.com/us/en/u/moving-forward/safety/" target="_blank">
-          Learn more <i style="padding-left: 10px;" class="fas fa-arrow-right"></i>
+          Learn more &rarr;
         </mj-button>
       </mj-column>
     </mj-section>
@@ -61,7 +57,7 @@
           <a style="text-decoration: none;"
              href="https://www.uber.com/blog/updates-to-your-insurance-protection/"
              target="_blank">
-             Learn more  <i style="padding-left: 10px"class="fas fa-chevron-right"></i></a>
+             Learn more  ></a>
         </mj-text>
 
       </mj-column>
@@ -96,7 +92,7 @@
           <a style="text-decoration: none;"
              href="https://www.uber.com/blog/updates-to-your-insurance-protection/"
              target="_blank"
-             >Learn more  <i style="padding-left: 10px"class="fas fa-chevron-right"></i></a>
+             >Learn more  ></a>
         </mj-text>
 
       </mj-column>
@@ -131,7 +127,7 @@
           <a style="text-decoration: none;"
              href="https://www.uber.com/us/en/ride/safety/"
              target="_blank"
-             >Learn more  <i style="padding-left: 10px"class="fas fa-chevron-right"></i></a>
+             >Learn more ></a>
         </mj-text>
 
       </mj-column>
